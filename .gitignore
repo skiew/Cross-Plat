@@ -1,0 +1,7 @@
+# Keep personal financial data out of git
+*.xlsx
+*.xls
+*.csv
+*.ofx
+*.qfx
+__pycache__/
